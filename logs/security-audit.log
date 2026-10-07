@@ -1,0 +1,44 @@
+########################################
+INSIDER THREAT DETECTION
+########################################
+Detected At      : 2026-10-01T21:37:08.590409
+User ID          : USR-001
+Behavior Score   : 100/100
+Threat Result    : POSSIBLE INSIDER DATA THEFT
+Priority         : CRITICAL
+Action           : INITIATE FORENSIC INVESTIGATION
+########################################
+
+########################################
+INSIDER THREAT DETECTION
+########################################
+Detected At      : 2026-10-01T22:00:25.153580
+User ID          : USR-001
+Behavior Score   : 100/100
+Threat Result    : POSSIBLE INSIDER DATA THEFT
+Priority         : CRITICAL
+Action           : INITIATE FORENSIC INVESTIGATION
+########################################
+
+########################################
+INSIDER THREAT DETECTION
+########################################
+Detected At      : 2026-10-05T19:30:20.576843
+User ID          : USR-001
+Behavior Score   : 100/100
+Threat Result    : POSSIBLE INSIDER DATA THEFT
+Priority         : CRITICAL
+Action           : INITIATE FORENSIC INVESTIGATION
+########################################
+
+########################################
+INSIDER THREAT DETECTION
+########################################
+Detected At      : 2026-10-05T19:31:46.383654
+User ID          : USR-001
+Behavior Score   : 100/100
+Threat Result    : POSSIBLE INSIDER DATA THEFT
+Priority         : CRITICAL
+Action           : INITIATE FORENSIC INVESTIGATION
+########################################
+
